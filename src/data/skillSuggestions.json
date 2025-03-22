@@ -1,0 +1,62 @@
+{
+  "languages": [
+    "Français",
+    "Anglais",
+    "Espagnol",
+    "Italien",
+    "Allemand",
+    "Portugais",
+    "Russe",
+    "Japonais",
+    "Chinois",
+    "Arabe"
+  ],
+  "artistic": [
+    "Danse classique",
+    "Danse contemporaine",
+    "Chant",
+    "Piano",
+    "Guitare",
+    "Théâtre",
+    "Improvisation",
+    "Expression corporelle",
+    "Mime",
+    "Photographie"
+  ],
+  "sports": [
+    "Yoga",
+    "Pilates",
+    "Natation",
+    "Course à pied",
+    "Tennis",
+    "Équitation",
+    "Gymnastique",
+    "Danse sportive",
+    "Arts martiaux",
+    "Fitness"
+  ],
+  "modeling": [
+    "Défilé haute couture",
+    "Photo studio",
+    "Photo extérieur",
+    "Pose catalogue",
+    "Expression faciale",
+    "Maquillage professionnel",
+    "Coiffure",
+    "Stylisme",
+    "Présentation vidéo",
+    "Improvisation pose"
+  ],
+  "other": [
+    "Communication",
+    "Gestion de projet",
+    "Marketing digital",
+    "Réseaux sociaux",
+    "Organisation événementielle",
+    "Relations publiques",
+    "Négociation",
+    "Leadership",
+    "Travail en équipe",
+    "Gestion du stress"
+  ]
+}
